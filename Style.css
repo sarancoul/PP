@@ -22,7 +22,7 @@
 #gauche{
     width: 35%;
     height: auto;
-    background-color: grey;
+    background-color: blue;
     color: #fff;
 }
 .image img{
@@ -43,7 +43,7 @@
 .tr{
     height: 6px;
     width: 60px;
-    background-color:red;
+    background-color:green;
     border-radius: 5px;
 }
 h3{
